@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/css/main.a7e2d3d0.chunk.css",
-    "main.js": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/js/main.11797c5d.chunk.js",
-    "main.js.map": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/js/main.11797c5d.chunk.js.map",
+    "main.css": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/css/main.48231356.chunk.css",
+    "main.js": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/js/main.f715be96.chunk.js",
+    "main.js.map": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/js/main.f715be96.chunk.js.map",
     "runtime-main.js": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/js/runtime-main.801cb7a2.js",
     "runtime-main.js.map": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/js/runtime-main.801cb7a2.js.map",
     "static/js/2.870e2be6.chunk.js": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/js/2.870e2be6.chunk.js",
     "static/js/2.870e2be6.chunk.js.map": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/js/2.870e2be6.chunk.js.map",
     "index.html": "https://rafaelvmedeiros.github.io/csb-ogjnww/index.html",
-    "static/css/main.a7e2d3d0.chunk.css.map": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/css/main.a7e2d3d0.chunk.css.map",
+    "static/css/main.48231356.chunk.css.map": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/css/main.48231356.chunk.css.map",
     "static/js/2.870e2be6.chunk.js.LICENSE.txt": "https://rafaelvmedeiros.github.io/csb-ogjnww/static/js/2.870e2be6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.801cb7a2.js",
     "static/js/2.870e2be6.chunk.js",
-    "static/css/main.a7e2d3d0.chunk.css",
-    "static/js/main.11797c5d.chunk.js"
+    "static/css/main.48231356.chunk.css",
+    "static/js/main.f715be96.chunk.js"
   ]
 }
